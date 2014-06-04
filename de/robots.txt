@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://zimmer7.com/sitemap.xml
